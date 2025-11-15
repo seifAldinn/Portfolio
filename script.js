@@ -1,4 +1,4 @@
- 
+  
 document.addEventListener('DOMContentLoaded', () => {
 
   // --- DATA ---
@@ -11,25 +11,25 @@ document.addEventListener('DOMContentLoaded', () => {
   ];
   const PROJECTS = [
     {
-      title: "Spotify Profile",
-      description: "A web app for visualizing personalized Spotify data. View your top artists, tracks, recently played songs, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your listening history.",
-      tech: ["React", "Styled Components", "Express", "Spotify API", "Node.js"],
-      github: "https://github.com/saumyac/spotify-profile",
-      link: "https://spotify-profile-sc.herokuapp.com/",
+      title: "Axit",
+      description: "A website  Simple landing page.",
+      tech: ["Html", "Css"],
+      github: "https://github.com/seifAldinn/Axit",
+      link: "https://seifaldinn.github.io/Axit/",
     },
     {
-      title: "Personal Website V1",
-      description: "My first portfolio website, which I designed and built in 2018. I learned a lot about HTML, CSS, and JavaScript. It was a fun project that sparked my interest in web development.",
+      title: " Doccure",
+      description: "My first Full website, It was a fun project that sparked my interest in web development.",
+      tech: ["HTML", "CSS", ,"bootstrap", "JavaScript"],
+      github: "https://github.com/seifAldinn/doccurrr",
+      link: "https://seifaldinn.github.io/doccurrr/doc-dashboard.html",
+    },
+    {
+      title: " Luxestate",
+      description: " Real estate site showcasing homes, services, and agents",
       tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/saumyac/v1",
-      link: "https://saumyac.github.io/v1/",
-    },
-    {
-      title: "Halcyon Theme",
-      description: "A minimal, dark theme for VS Code, Sublime Text, and more. I was inspired by the calm and serene colors of the ocean at night. It's designed to be easy on the eyes and help you focus on your code.",
-      tech: ["VS Code Themes"],
-      github: "https://github.com/saumyac/halcyon-vscode",
-      link: "https://marketplace.visualstudio.com/items?itemName=saumya.halcyon",
+      github: "https://github.com/seifAldinn/Luxestate",
+      link: "https://seifaldinn.github.io/Luxestate/",
     },
   ];
 
